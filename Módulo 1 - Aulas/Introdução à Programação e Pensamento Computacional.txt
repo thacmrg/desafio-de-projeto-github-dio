@@ -1,0 +1,36 @@
+INTRODUÇÃO À PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
+Introdução ao pensamento computacional
+Não se restringe ao meio computacional. Quando coloca no algoritmo reforça as instruções dentro de um problema e chega à solução. Pensamento sistemático e eficiente, tem que ser utilizado de maneira que um ser humano e máquina consigam resolver. Habilidade generalista. 
+4 pilares: 
+decomposição – segmentar um problema para encontrar problemas menores e resolvíveis. 
+Processo de quebra e determinar partes menores gerenciáveis. Encontrar as partes principais e examina os menores. Ou, combina os elementos e recompõe o problema original. 
+Ordem de execução de tarefas menores > executadas em fila; executar concomitantemente. 
+Variáveis que estão presentes dentro dos pequenos problemas e são determinadas pela segmentação. 
+Identificar e coletar os dados > segmentar/agregar os dados > entregar. 
+Reconhecimento de padrões –identificar similaridades e tendências entre os problemas. 
+Modelo base que determina estrutura invariante e pode determinar repetição. 
+Reconhecemos padrões através das similaridades e diferenças. 
+Ao detectar padrões consegue generalizar para obter resoluções para problemas diferentes.
+O computador reconhece padrões por comparação. Representar atributos para máquina aprender e associar ao objeto, armazenar dados e haver regra de decisão. Extrair características a fim de abordar dados e aplicar a diferentes contextos. 
+Abstração – extrapolar o conceito do problema para uma forma generalista. Leva do mundo do concreto para o mundo das ideias. Exemplo: adaptar o design para diversos dispositivos. 
+Isolamento de objeto da realidade. Generalizar é tornar algo geral, mais amplo. Pegar os elementos principais, extrapolar ao mundo abstrato e tornar geral. 
+Generalizando conseguimos determinar classes e objetos dessa classe. 
+Classificar os dados através de características, pontos essenciais e detalhar/generalizar. 
+Design de algoritmos – define o passo a passo para solucionar o problema. Input > operator > output. Processo contínuo que precisa ser refinado sempre. Testar, analisar e refinar o algoritmo. 
+O computador recebe, manipula e armazena dados. 
+Step by step é o processo de resoluções do algoritmo. 
+Analisar, entender e estudar e definir os dados de entrada e saída. O algoritmo descreve o problema por meio de ferramentas narrativas (linguagem nativa, pode ser ambígua), fluxogramas (estrutura gráfica com símbolos pré-definidos que definem o tipo de ação executada ali) e pseudocódigo (portugol, regras bem definidas com passos a serem seguidos). Codifica usa linguagem de programação. 
+Compreender o problema > definir os dados de entrada > definir processamento > definir dados de saída > utilizar algum método de construção ou refinamento > teste e diagnóstico. 
+Habilidades complementares
+Raciocínio lógico é uma forma de pensamento estruturado ou raciocínio que permite encontrar a conclusão ou resolução do problema. Tem que ser treinado. 
+Indução vem a partir do fenômeno observado. Dedução parte de leis e teorias que você deduz explicações para o fenômeno. Abdução a partir de algo observado você supõe outra coisa. 
+A partir da inferência temos a sintética e analítica (dedução).
+Aperfeiçoamento é a partir de uma solução encontrar os pontos de melhora e refinamento. Encontrar solução eficiente, otimizar processos, simplificar linhas de códigos e funções bem definidas. 
+
+Introdução à Lógica de Programação
+Lógica vem para solucionar algum problema que pode ter numerosas soluções. Um problema que foge determinada regra, o qual impede atingir o objetivo. Forma de raciocínio. 
+	Técnica linear: modelo tradicional, não tem vínculo. Muito associada a matemática. Ela é a execução sequenciada de ações onde há recursos limitados em única dimensão. Exemplos: acordar > levantar > preparar o café > tomar o café. Sequência de ações executadas de maneira ordenada com dependência entre si. 
+	Técnica estruturada: escrita de programas, entendimento, validação e manutenção. Pode ter mais de uma condição, não é linear. 
+	Técnica modular: define partes independentes controladas por um grupo de regras e cada modo há suas regras. Dados de entrada > Processo de transformação > Dados de saída. Simplifica, decompõe o problema e permite a verificação do módulo. 
+
+Fundamentos de Algoritmo
