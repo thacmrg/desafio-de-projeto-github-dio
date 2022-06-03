@@ -1,5 +1,5 @@
 INTRODUÇÃO À PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
-Introdução ao pensamento computacional
+<p>Introdução ao pensamento computacional<br>
 Não se restringe ao meio computacional. Quando coloca no algoritmo reforça as instruções dentro de um problema e chega à solução. Pensamento sistemático e eficiente, tem que ser utilizado de maneira que um ser humano e máquina consigam resolver. Habilidade generalista. 
 4 pilares: 
 decomposição – segmentar um problema para encontrar problemas menores e resolvíveis. 
